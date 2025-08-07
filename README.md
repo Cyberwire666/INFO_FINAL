@@ -106,29 +106,10 @@ securehealth/
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots here showing:*
-
-* Login page with 2FA
-* Admin dashboard
-* Patient portal
-* File upload/download
-
----
-
-## 📌 Future Improvements
-
-* RESTful API documentation (Swagger/OpenAPI)
-* User notification system
-* Audit log export and admin reports
-* Email/SMS OTP support
-
----
 
 ## 🧑‍💻 Authors
 
-* Yehia Tarek Selim – [LinkedIn](https://www.linkedin.com/in/yehia-selim)
+* Yehia Tarek Selim – [LinkedIn](https://www.linkedin.com/in/yehiaselim2004)
 * Alexandria National University – Secure Software Development Final Project
 
 ---
